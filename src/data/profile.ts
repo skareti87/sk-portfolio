@@ -101,12 +101,12 @@ export const profile: Profile = {
   photo: "", // Set to '' to hide photo
   email: "sivakumar.kareti87@gmail.com",
   location: "Sterling, VA",
-
   // -------------------------------------------------------------------------
   // CONTACT & SOCIAL (Optional - remove or set to undefined if not needed)
   // -------------------------------------------------------------------------
   linkedin: "https://www.linkedin.com/in/sivakumar-kareti",
   github: "https://github.com/skareti87",
+  website: "https://sk-87.vercel.app/",
 
   // -------------------------------------------------------------------------
   // PROFESSIONAL SUMMARY
