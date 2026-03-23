@@ -119,9 +119,8 @@ export const profile: Profile = {
   // 3-5 achievement statements with metrics when possible
   // -------------------------------------------------------------------------
   highlights: [
-    "Led migration of 9 TB+ (100 million records) Dynamodb with zero downtime for application that handles 250+ Transaction per second",
-    "Led migration of serverless microservices",
-    "Incorporated AI/ML tools in day to day work resulted in 20% increase in efficiency",
+    "Led zero-downtime migration of 9+ TB DynamoDB (100M+ records) supporting 250+ TPS application.",
+    "Increased development efficiency by 20% by leveraging AI-assisted coding tools to streamline workflows and reduce development time."
   ],
 };
 
