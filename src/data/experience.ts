@@ -130,11 +130,11 @@ export const experience: Experience[] = [
     // endDate: undefined,  // Omit or undefined for current position
     current: true,
     description:
-      "Lead development serverless applications and small account migration.",
+      "Lead development of serverless applications and small account migration.",
     achievements: [
-      "Led migration of around DynamoDB table containing around 100 million documents and around 9 TB of data with zero downtime",
-      "Led migration of serverless applications to Lambda and Fargate containers",
-      "Led migration of Java 17/Spring boot 3 upgrade.",
+      "Led the zero-downtime migration of a DynamoDB table containing over 100 million records (~9 TB of data).",
+      "Led the migration of serverless applications to AWS Lambda and containerized workloads on Fargate.",
+      "Led the upgrade of applications to Java 17 and Spring Boot 3, improving performance and maintainability."
     ],
     technologies: ["Java", "Spring Boot", "Docker", "AWS", "Jenkins"],
   },
@@ -152,11 +152,11 @@ export const experience: Experience[] = [
     endDate: "2023",
     current: false,
     description:
-      "Led development of cloud migration of on-premises big data to cloud database like snowflake.",
+      "Led development of cloud migration of on-premises big data to cloud database like Snowflake.",
     achievements: [
-      "Built and supported data pipelines for migrating 5+ GB of hadoop data daily to Snowflake",
-      "Built monitoring and alerting system for data pipelines",
-      "Worked on migration of Spark jobs to data bricks",
+      "Designed, built, and maintained data pipelines to migrate over 5 GB of Hadoop data daily into Snowflake.",
+      "Developed a monitoring and alerting system to ensure reliability and performance of data pipelines.",
+      "Contributed to the migration of Spark jobs to Databricks, improving scalability and processing efficiency.",
     ],
     technologies: [
       "Python",
@@ -183,10 +183,10 @@ export const experience: Experience[] = [
     endDate: "2022",
     current: false,
     description:
-      "Led migration of 5+ TB (around 80 million documents) of data migration from LDAP to DynamoDB. Implmented automated api driven testing framework using karate.",
+      "Led the migration of 5+ TB (around 80 million documents) of data from LDAP to DynamoDB. Implemented automated api driven testing framework using Karate.",
     achievements: [
-      "Led migration of 5+ TB (around 80 million documents) of data migration from LDAP to DynamoDB, resulting in millions of dollars in license fee cost savings",
-      "Implmented automated api driven testing framework using karate. created around 300+ test cases that test various business scenarios and edge cases.",
+      "Led the migration of over 5 TB of data (approximately 80 million records) from LDAP to DynamoDB, achieving millions of dollars in licensing cost savings.",
+      "Implemented an automated API-driven testing framework using Karate, developing over 300 test cases covering diverse business scenarios and edge cases.",
     ],
     technologies: [
       "Java",
@@ -208,10 +208,10 @@ export const experience: Experience[] = [
     endDate: "2020",
     current: false,
     description:
-      "Led development of integration of Ariba procurement system with internal systems. Led development of procurement workflows with streamline approval process",
+      "Led the development of the integration of the Ariba procurement system with internal systems. Led development of procurement workflows with a streamlined approval process.",
     achievements: [
-      "Led development of integration of Ariba procurement system with internal systems",
-      "Implmented custom mulesoft connector for seamless integration of workday with internal systems.",
+      "Led the development and integration of the Ariba procurement system with internal enterprise systems.",
+      "Implemented a custom MuleSoft connector to enable seamless integration between Workday and internal systems.",
     ],
     technologies: [
       "Java",
@@ -232,10 +232,10 @@ export const experience: Experience[] = [
     endDate: "2019",
     current: false,
     description:
-      "Led development and support of launch of Point of sales (POS) system - FILIS to 575+ stores across nationwide. Led development of internal tools for inventory management and reporting.",
+      "Led the development and support of the launch of the Point of Sales (POS) system - FILIS to 575+ stores nationwide. Led development of internal tools for inventory management and reporting.",
     achievements: [
-      "Deployed FILIS POS system to 575+ stores across nationwide, that allowed store employees to view customer information and perform actions on behalf of customers, resulting in significant improvement in customer satisfaction.",
-      "Provide support and enhancements for FILIS POS system",
+      "Deployed the FILIS POS system to over 575 stores nationwide, enabling store associates to access customer information and perform actions on their behalf, significantly improving customer satisfaction.",
+      "Provided ongoing support and enhancements for the FILIS POS system to ensure reliability and continuous improvement.",
     ],
     technologies: [
       "Java",
@@ -256,10 +256,10 @@ export const experience: Experience[] = [
     endDate: "2017",
     current: false,
     description:
-      "Implmented of multifactor authentication for web application. Led development of Call center application for customer support team.",
+      "Implemented multifactor authentication for the web application. Led development of the call center application for the customer support team.",
     achievements: [
-      "Implmented of multifactor authentication for web application, that authenticated 25,000+ users per day and resulted in significant reduction in account takeovers and fraud",
-      "Implmented development of Call center application for customer support team, that allowed customer support team to view customer information and perform actions on behalf of customers, resulting in significant improvement in customer satisfaction and reduction in call handling time.",
+      "Implemented multi-factor authentication (MFA) for a web application supporting 25,000+ daily users, significantly reducing account takeovers and fraud.",
+      "Led the development of a call center application for customer support teams, enabling agents to access customer information and perform actions on behalf of customers, resulting in improved customer satisfaction and reduced call handling time.",
     ],
     technologies: [
       "Java",
